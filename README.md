@@ -1,4 +1,5 @@
 > #### The quarterly results look great!
+
 >
 > - Revenue was off the chart.
 > - Profits were higher than ever.
@@ -48,4 +49,8 @@ The killer feature of `markdown-it` is very effective support of
 
 > Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
 >
-> Shortcuts (emoticons): :-) :-( 8-) ;)
+> Shortcuts (emoticons): :-) :-
+
+I love supporting the **[EFF](https://eff.org)**.
+This is the *[Markdown Guide](https://www.markdownguide.org)*.
+See the section on [`code`](#code).
